@@ -28,7 +28,7 @@ labels = blpkm_cc(X, n_clusters=2, ml=ml, cl=cl)
 
 Please cite the following paper if you use this algorithm.
 
-**Baumann, P.** (2020): Clustering with Must-Link and Cannot-Link Constraints: Comparing BLPKM to DILS. Proceedings of the 2020 IEEE International Conference on Industrial Engineering and Engineering Management. Singapore, to appear
+**Baumann, P.** (2020): Clustering with Must-Link and Cannot-Link Constraints: Comparing BLPKM to DILS. Proceedings of the 2020 IEEE International Conference on Industrial Engineering and Engineering Management. Singapore, under review
 
 Bibtex:
 ```
@@ -39,7 +39,7 @@ Bibtex:
 	year={2020},
 	volume={},
 	number={},
-	pages={to appear},
+	pages={under review},
 }
 ```
 

@@ -31,7 +31,7 @@ cl = [(4, 12), (8, 19)]
 
 # %% Apply BLPKM-CC
 
-labels = blpkm_cc(X, n_clusters=2, ml=ml, cl=cl)
+labels = blpkm_cc(X, n_clusters=2, ml=ml, cl=cl, random_state=24)
 
 # %% Visualize result
 
@@ -48,4 +48,3 @@ for (i, j) in ml:
 # Plot cannot-link constraints
 for (i, j) in cl:
     plt.plot([X[i, 0], X[j, 0]], [X[i, 1], X[j, 1]], color='red', alpha=0.5)
-
