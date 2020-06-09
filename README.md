@@ -21,7 +21,7 @@ Gurobi is a commercial mathematical programming solver. Free academic licenses a
 The main.py file contains code that applies the BLPKM-CC algorithm on an illustrative example.
 
 ```python
-labels = blpkm_cc(data=X, n_clusters=2)
+labels = blpkm_cc(X, n_clusters=2, ml=ml, cl=cl)
 ```
 
 ## Reference
