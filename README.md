@@ -5,7 +5,7 @@ Constrained clustering algorithm that considers must-link and cannot-link constr
 ## Dependencies
 
 BLPKM-CC depends on:
-* [Gurobi](https://github.com/spyder-ide/spyder)
+* [Gurobi](https://anaconda.org/Gurobi/gurobi)
 * [Numpy](https://anaconda.org/conda-forge/numpy)
 * [Scipy](https://anaconda.org/anaconda/scipy)
 
