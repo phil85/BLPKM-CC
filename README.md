@@ -24,6 +24,10 @@ The main.py file contains code that applies the BLPKM-CC algorithm on an illustr
 labels = blpkm_cc(X, n_clusters=2, ml=ml, cl=cl)
 ```
 
+## Documentation
+
+The documentation of the module blpkm_cc can be found [here](https://phil85.github.io/BLPKM-CC/documentation.html).
+
 ## Reference
 
 Please cite the following paper if you use this algorithm.
