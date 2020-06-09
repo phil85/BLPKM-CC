@@ -20,7 +20,7 @@ def update_centers(X, centers, n_clusters, labels):
         centers[i] = X[labels == i, :].mean(axis=0)
     return centers
 
-@profile
+
 def assign_objects(X, centers, ml, cl):
     """Assigns objects to clusters
 
@@ -77,7 +77,7 @@ def get_total_distance(X, centers, labels):
     dist = np.sqrt(((X - centers[labels, :]) ** 2).sum(axis=1)).sum()
     return dist
 
-@profile
+
 def blpkm_cc(X, n_clusters, ml=[], cl=[], random_state=None, max_iter=100):
     """Finds partition of X subject to must-link and cannot-link constraints
 
