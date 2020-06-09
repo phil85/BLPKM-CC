@@ -49,5 +49,3 @@ for (i, j) in ml:
 for (i, j) in cl:
     plt.plot([X[i, 0], X[j, 0]], [X[i, 1], X[j, 1]], color='red', alpha=0.5)
 
-
-
