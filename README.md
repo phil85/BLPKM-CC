@@ -9,7 +9,7 @@ BLPKM-CC depends on:
 * [Numpy](https://anaconda.org/conda-forge/numpy)
 * [Scipy](https://anaconda.org/anaconda/scipy)
 
-Gurobi is a commercial mathematical programming solver. Free academic licenses are available [here](https://www.gurobi.com/academia/academic-program-and-licenses/). A version of this algorithm that uses the open-source SCIP solver is available upon request. Please contact me by email (philipp.baumann@pqm.unibe.ch).
+Gurobi is a commercial mathematical programming solver. Free academic licenses are available [here](https://www.gurobi.com/academia/academic-program-and-licenses/). A version of this algorithm that uses the non-commercial [SCIP](https://www.scipopt.org/) solver is available upon request. Please contact me by email (philipp.baumann@pqm.unibe.ch) if you are interested.
 
 ## Installation
 
