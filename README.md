@@ -43,7 +43,7 @@ Bibtex:
 	year={2020},
 	volume={},
 	number={},
-	pages={under review},
+	pages={to appear},
 }
 ```
 
