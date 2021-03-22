@@ -32,7 +32,7 @@ The documentation of the module blpkm_cc can be found [here](https://phil85.gith
 
 Please cite the following paper if you use this algorithm.
 
-**Baumann, P.** (2020): Clustering with Must-Link and Cannot-Link Constraints: Comparing BLPKM to DILS. Proceedings of the 2020 IEEE International Conference on Industrial Engineering and Engineering Management. To appear
+**Baumann, P.** (2020): A Binary Linear Programming-Based K-Means Algorithm For Clustering with Must-Link and Cannot-Link Constraints. Proceedings of the 2020 IEEE International Conference on Industrial Engineering and Engineering Management. To appear
 
 Bibtex:
 ```
