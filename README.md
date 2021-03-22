@@ -39,11 +39,9 @@ Bibtex:
 @inproceedings{baumann2020clustering,
 	author={Philipp Baumann},
 	booktitle={2020 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)},
-	title={Clustering with Must-Link and Cannot-Link Constraints: Comparing BLPKM to DILS},
+	title={A Binary Linear Programming-Based K-Means Algorithm For Clustering with Must-Link and Cannot-Link Constraints},
 	year={2020},
-	volume={},
-	number={},
-	pages={to appear},
+	pages={324--328},
 }
 ```
 
